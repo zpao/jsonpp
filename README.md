@@ -2,7 +2,7 @@
 
 * `python -m json.tool` doesn't seem to work how I expect it to
 * ditto for `prettify_json.rb`
-* I didn't find one on npm already
+* <strike>I didn't find one on npm already</strike> (search.npmjs.org lied, there's a bunch of these... too late now!)
 * it's *JSON* so why shouldn't this be done by the JS engine
 
 # Usage
