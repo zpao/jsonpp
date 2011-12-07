@@ -1,0 +1,17 @@
+{
+  "author": "Paul O’Shannessy <paul@oshannessy.com>",
+  "name": "jsonpp",
+  "description": "JSON Pretty Print",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zpao/jsonpp.git"
+  },
+  "dependencies": {
+    "nomnom": "1.5.x"
+  },
+  "bin": {
+    "jsonpp": "./jsonpp.js"
+  },
+  "devDependencies": {}
+}
