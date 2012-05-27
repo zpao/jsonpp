@@ -20,7 +20,7 @@ var options = {
     abbr: "t",
     full: "use-tabs",
     flag: true,
-    help: "use spaces instead of tabs. overrides --spaces",
+    help: "use tabs instead of spaces. overrides --spaces",
     default: false
   }
 };
